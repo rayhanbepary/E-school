@@ -83,7 +83,8 @@
 }
 #des_card img {
     padding: 25px 20px;
-    width: 150px;
+    width: 120px;
+    height: 150px;
 }
 #des_card h4,
 #course h4{
