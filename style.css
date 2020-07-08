@@ -1,0 +1,235 @@
+.container{
+    margin-bottom: 50px;
+}
+.container.hrader{
+    margin-bottom: 0px;
+    padding: 20px 0px;
+}
+.search_form{
+    position: relative;
+    margin: 0px 22px;
+}
+.search_form input[type="search"]{
+    border: none;
+    width: 100%;
+    height: 32px;
+    border-radius: 20px;
+    background-color: #fceae8;
+    outline: none;
+    padding-left: 20px;
+}
+.search_form input[type="submit"]{
+	position:absolute;
+	width:24px;
+	height:24px;
+	background:url(img/srchIcons.png) no-repeat;
+	float:right;
+	text-indent:-9999999999999px;
+	border:none;
+	top:6px;
+	right:25px;
+    cursor:pointer;
+    outline: none;
+}
+#sign{
+    background: #21B573;
+    border-radius: 33px;
+    margin-left: 50px;
+    padding: 7px 20px;
+    color: #ffffff;
+    font-size: 16px;
+}
+.buy-button{
+    background: #21B573;
+    border-radius: 33px;
+    color: #ffffff;
+    border: none;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+#nav_wrapper,
+#banner_wrapper{
+    background: #F0FFF0;
+}
+#banner_wrapper{
+    padding: 30px 0px;
+    margin-bottom: 30px;
+}
+.des h4{
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+.des h1{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+     color: #000000;
+}
+.des p{
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+}
+#des_card{
+    border: none;
+    border-radius: 10px;
+    background: #F8FFFB;
+    text-align: center;
+}
+#des_card:hover{
+    -webkit-box-shadow: 0px 2px 35px -6px rgba(0,0,0,0.42); 
+    box-shadow: 0px 2px 35px -6px rgba(0,0,0,0.2);
+}
+#des_card img {
+    padding: 25px 20px;
+    width: 150px;
+}
+#des_card h4,
+#course h4{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+#des_card p,
+#course p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+#over_all{
+    padding: 50px 0px;
+}
+.headline{
+    margin-bottom: 80px;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+}
+#course{
+    border: none;
+    border-radius: 10px;
+    background: #F8FFFB;
+    -webkit-box-shadow: 0px 2px 35px -6px rgba(0,0,0,0.42); 
+    box-shadow: 0px 2px 35px -6px rgba(0,0,0,0.2);
+}
+#course img{
+    padding: 20px;
+}
+.course_foot{
+    margin-top: -20px;
+    padding-bottom: 7px;
+}
+.date img{
+    width: 60px;
+    margin-top: 30px;
+}
+.date p{
+    margin-top: 46px;
+    margin-left: -10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+.people img{
+    width: 60px;
+    margin-top: 30px;
+}
+.people p{
+    margin-top: 46px;
+    margin-right: 25px;
+    margin-left: -10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+.testi{
+    padding-top: 40px;
+}
+.testi h4{
+    padding-bottom: 50px;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+}
+.testi_img{
+    margin-right: 30px;
+}
+.testi_img img{
+    width: 100px;
+}
+.contact{
+    background-color: #fceae8;
+    border-radius: 8px;
+}
+#contact{
+    height: 300px;
+    margin-top: 100px;
+}
+#contact h3{
+    font-weight: 500;
+}
+#contact h6{
+    color: gray;
+}
+#footer_wrapper{
+    background: #282531;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+#container_footer {
+    margin-bottom: 0px;
+}
+#footer p{
+    color: #f0f0f0;
+}
+#footer h6{
+    font-weight: bold;
+    font-size: 16px;
+    color: #ffffff;
+}
+#footer ul li{
+    list-style-type: none;
+    padding: 3px 0;
+    color: #f0f0f0;
+}
+footer{
+    background: #282531;
+    text-align: center;
+    padding: 40px 0;
+    color: #ffffff;
+}
+.foot{
+    margin-top: -20px;
+    padding-bottom: 7px;
+}
+.date img{
+    width: 60px;
+    margin-top: 30px;
+}
+.date p{
+    margin-top: 46px;
+    margin-left: -10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+.people img{
+    width: 60px;
+    margin-top: 30px;
+}
+.people p{
+    margin-top: 46px;
+    margin-right: 25px;
+    margin-left: -10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
